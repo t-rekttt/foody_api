@@ -13,3 +13,6 @@ A reverse engineered library from Foody Android app
 - getPlacesByLocation('21.0228161', '105.8019441', 217, 1).then(console.log);
 - getLocation('21.022815', '105.80194').then(console.log);
 - search('kem', 218).then(console.log)
+
+## cityId list:
+- https://github.com/t-rekttt/foody_chatbot/blob/master/cities.txt
